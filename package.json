@@ -1,0 +1,20 @@
+{
+  "name": "teamui-template",
+  "version": "1.0.2",
+  "main": "lib/create-app.js",
+  "bin": {
+    "teamui-template": "./bin/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "keywords": [],
+  "author": "niniku",
+  "license": "MIT",
+  "description": "Create an UI template directory."
+}
