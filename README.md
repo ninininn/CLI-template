@@ -17,22 +17,24 @@ This CLI could help for building an start folder with those libraries efficiency
 [Link in npm](https://www.npmjs.com/package/teamui-template)
 
 ## 🚀 Usage
-1. npm install
+1. Create an directory for your project
 ```
-$ npm i teamui-template
+$ mkdir dir-name
 ```
-2. create your team project
+2. Move into the directory
 ```
-$ teamui-template app-name
+$ cd dir-name
 ```
-3. Get into the directory and run:
+3. Prompt the CLI to create your team project
+```
+$ npx teamui-template app-name
+```
+4. Get into the directory and run:
 ```
 $ cd app-name
-```
-```
 $ npm run dev
 ```
-Now you will get an usefull project folder!!! Congrates!
+It will trigger Vite engine host in localhost:5173 by default!
 
 ## LICENSE
 MIT
