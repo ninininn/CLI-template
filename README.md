@@ -1,8 +1,8 @@
 ## ✨ CLI for teams to build project's UI template
 Since it is frustrated everytime when I start a new project-ui-template, I'm always forgetting the steps of the CLI...
 
-Our team take Vite, Tailwindcss as tools, but always getting troble on those complex CLI steps, and always need to check the file structure of the build result.
-So, I grab those troubled CLI into one package!
+Our team take Vite, Tailwindcss as tools, but always getting trouble on those complex CLI steps, and always need to check the file structure of the build result.
+So, I combine those troubled CLI into one command line instead!
 
 This CLI will create an well-done template, and also setting tailwindcss's config properly in vite's config file( so you don't need to modify the specific line any more!) 
 
