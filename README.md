@@ -5,16 +5,17 @@ Our team take Vite, Tailwindcss as tools, but always getting troble on those com
 So, I grab those troubled CLI into one package!
 
 This CLI will create an well-done template, and also setting tailwindcss's config properly in vite's config file( so you don't need to modify the specific line any more!) 
-For teams project which Tech stacks with:
-- Vite
-- React
-- Taiwindcss
 
-This CLI could help for building an start folder with those libraries efficiency.
+For teams project which Tech stacks with:
+- [Vite](https://github.com/vitejs/vite)
+- [React](https://github.com/facebook/react)
+- [Taiwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+This CLI could help for building an start folder with those modules efficiency.
 
 (Or maybe more will be added...)
 
-[Link in npm](https://www.npmjs.com/package/teamui-template)
+[npm Link](https://www.npmjs.com/package/teamui-template)
 
 ## 🚀 Usage
 1. Create an directory for your project
